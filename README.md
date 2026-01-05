@@ -14,11 +14,6 @@ This project replicates **Power BI–like reporting capabilities** such as:
 - Admin-only controls
 - Client-ready UI
 
-It is ideal for:
-- Client demos
-- Interview portfolios
-- Real-time analytics use cases
-
 ---
 
 ## 🚀 Key Features
@@ -42,10 +37,6 @@ It is ideal for:
 - Executive-level insights
 - Power BI–style tab navigation
 
-### 🧑‍💼 Admin Controls
-- Delete all records (Admin only)
-- Replace data on CSV upload
-- Safe confirmation mechanism
 
 ### 🎨 UI & UX
 - Executive Dark Theme
@@ -53,7 +44,32 @@ It is ideal for:
 - Responsive Plotly charts
 - Power BI–style design
 
----
 
-## 🏗️ Project Structure
+
+
+### ADMIN 
+<img width="1361" height="682" alt="image" src="https://github.com/user-attachments/assets/6d82e2d3-2735-4228-8588-d4f60371d31b" />
+
+
+<img width="1357" height="662" alt="image" src="https://github.com/user-attachments/assets/10ce6298-1acf-4761-b2c4-9406c8c924ca" />
+
+<img width="1357" height="688" alt="image" src="https://github.com/user-attachments/assets/e98532f9-3625-4f1b-b652-b7919c8412b2" />
+
+
+<img width="1365" height="665" alt="image" src="https://github.com/user-attachments/assets/3da3ef57-9110-4220-b733-0438358fb95f" />
+
+
+### Department
+
+<img width="1362" height="694" alt="image" src="https://github.com/user-attachments/assets/fdeb889f-3b41-4c26-ab5f-55027ff2b9b4" />
+
+<img width="1351" height="707" alt="image" src="https://github.com/user-attachments/assets/2cf28ac4-36ba-4854-be24-e6eb2ae91d26" />
+
+
+
+
+
+
+
+
 
