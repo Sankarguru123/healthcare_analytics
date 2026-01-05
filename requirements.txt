@@ -4,3 +4,4 @@ sqlalchemy
 psycopg2-binary
 plotly
 streamlit-aggrid
+python-dotenv
